@@ -1,0 +1,3 @@
+MelbJourney
+
+Melbourne Journey is an iPhone app developed specifically to show public transport information in Melbourne or Victoria. It was originally released in March 2009. It gets the data from Metlink. It requires the back-end software component: https://github.com/donny/melb-journey-back-end. It was developed targeting the iPhone OS version 2.x.
